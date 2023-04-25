@@ -29,8 +29,7 @@
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### 🔗Contact Me
-<a href="https://linkedin.com/in/youssef-atef-587649234" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Atef -0077B5?"
-    
+https://www.linkedin.com/in/youssef-atef-587649234    
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 <!-- ### Stats
